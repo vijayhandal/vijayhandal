@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay9969" alt="vijay9969" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/VHandal" target="blank"><img width="20px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="vijayhandal" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay9969" alt="vijay9969" /></a> </p>
 
 - 🌱 I’m currently learning **SQL, Spring-Boot, Angular, Bootstrap**
 
