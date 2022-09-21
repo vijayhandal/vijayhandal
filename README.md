@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vijay Handal</h1>
 <h3 align="left">A passionate Java Backend developer from Pune</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay9969" alt="vijay9969" /></a> </p>
+<p style=background-color:"black"; align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay9969" alt="vijay9969" /></a> </p>
 <img align="right" width="200px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="">
 
 - 🌱 I’m currently learning **SQL, Spring-Boot, Angular, Bootstrap**
