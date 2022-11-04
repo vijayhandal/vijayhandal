@@ -36,7 +36,7 @@
 
 <!-- <p>&nbsp;<img align="left" style="margin:5px;width:500px" src="https://github-readme-stats.vercel.app/api?username=vijay9969&show_icons=true&locale=en" alt="vijay9969" /></p> -->
 <p>&nbsp;<img align="left" style="margin:5px;width:500px" src="https://github-readme-stats.vercel.app/api?username=vijay9969
- &theme=radical" alt="vijay9969" /></p>
+ &show_icons=true&local=en" alt="vijay9969" /></p>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay9969
  &theme=radical) -->
 
