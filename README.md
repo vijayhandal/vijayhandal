@@ -42,4 +42,4 @@
 
 <p><img align="left" style="margin:5px;width:500px" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay9969&&theme=tokyonight" alt="vijay9969" /></p> 
 
-<a href="https://github.com/vijay9969/github-readme-activity-graph"><img style="margin-top:200px;" alt="Vijay Handal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vijay9969&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vijay9969/github-readme-activity-graph"><img style="margin-top:200px" alt="Vijay Handal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vijay9969&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
