@@ -40,4 +40,4 @@
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay9969
  &theme=radical) -->
  
-<p><img align="left" style="margin:5px;width:500px" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay9969&&theme=tokyon" alt="vijay9969" /></p> 
+<p><img align="left" style="margin:5px;width:500px" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay9969&&theme=tokyonight" alt="vijay9969" /></p> 
