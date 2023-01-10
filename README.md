@@ -4,7 +4,7 @@
 <p style=background-color:"black"; align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay9969" alt="vijay9969" /></a> </p>
 
 
-- 🌱 I’m currently learning **SQL, Spring-Boot, Angular, Bootstrap**
+- 🌱 I’m currently learning **Spring-Boot, Angular, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://vijay9969.github.io/](https://vijay9969.github.io/)
 
