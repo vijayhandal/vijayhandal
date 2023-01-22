@@ -37,7 +37,7 @@
 <p>&nbsp;<img align="left" style="margin:5px;width:500px;color:black;" src="https://github-readme-stats.vercel.app/api?username=vijay9969&show_icons=true&locale=en&theme=tokyonight" alt="vijay9969" /></p>
 <!-- <p>&nbsp;<img align="left" style="margin:5px;width:500px" src="https://github-readme-stats.vercel.app/api?username=vijay9969
  &theme=radical" alt="vijay9969" /></p> -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay9969
- &theme=radical) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay9969
+ &theme=radical)
  
 <p><img align="left" style="margin:5px;width:500px" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay9969&&theme=tokyonight" alt="vijay9969" /></p> 
