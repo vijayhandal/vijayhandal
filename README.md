@@ -4,7 +4,7 @@
 <p style=background-color:"black"; align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay9969" alt="vijay9969" /></a> </p>
 
 
-- 🌱 I’m currently learning **Spring-Boot, Angular, Bootstrap**
+- 🌱 I’m currently learning **Kafka, Elasticsearch, JSP**
 
 - 👨‍💻 All of my projects are available at [https://vijay9969.github.io/](https://vijay9969.github.io/)
 
@@ -12,11 +12,11 @@
 
 - 🎯Asos.com Link:- https://stirring-marzipan-5d4585.netlify.app/
 
-- 💬 Ask me about **JAVA, Spring-Boot, JavaScript, HTML,CSS**
+- 💬 Ask me about **JAVA, Spring-Boot, WebSocket, MySQL, PostgreSQL, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **handalvijay9588@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15bZyc5lsRm3xO7ppJFUoWLUJGAT7CtBF/view?usp=sharing](https://drive.google.com/file/d/15bZyc5lsRm3xO7ppJFUoWLUJGAT7CtBF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1an8ujiJPzdpQHGna9S7vLBWmv_JZQvbF/view](https://drive.google.com/file/d/1an8ujiJPzdpQHGna9S7vLBWmv_JZQvbF/view)
 
 
 
