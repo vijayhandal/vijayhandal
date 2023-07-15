@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **handalvijay9588@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1an8ujiJPzdpQHGna9S7vLBWmv_JZQvbF/view](https://drive.google.com/file/d/1an8ujiJPzdpQHGna9S7vLBWmv_JZQvbF/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1an8ujiJPzdpQHGna9S7vLBWmv_JZQvbF/view)
 
 
 
